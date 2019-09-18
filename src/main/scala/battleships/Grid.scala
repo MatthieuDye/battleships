@@ -14,8 +14,6 @@ class PlayerGrid(listShips: Map[List[Cell], Ship]) {
   def areSunk() = {
     listShips.values.forall(ship => isSunk(ship))
   }
-
-  object PlayerGrid(listShips: )
 }
 
 class FoeGrid(listCells: List[Cell] = List()) {
@@ -25,9 +23,5 @@ class FoeGrid(listCells: List[Cell] = List()) {
   def missedCells() = listCells.filter(cell => cell.isHit && cell.isEmpty)
 
   def hitCells() = listCells.filter(cell => cell.isHit() && !cell.isEmpty)
-
-
-
-
 
 }
