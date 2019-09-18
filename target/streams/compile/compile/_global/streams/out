@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/ig5/IdeaProjects/battleships/project/target/.sbt-compilation-infos/battleships-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ig5/IdeaProjects/battleships/src/main/scala/battleships/Grid.scala:18:20: traits or objects may not have parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  object PlayerGrid(listShips: )[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/ig5/IdeaProjects/battleships/project/target/.sbt-compilation-infos/battleships-compile/.sbt-idea-lock.[0m

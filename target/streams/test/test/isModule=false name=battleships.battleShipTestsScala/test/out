@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mbattleShipTestsScala:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIf I want to test something[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  I can tests whatever I want like that :[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - A new created undefined Cell has no properties[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA nonhit list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- return something[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn hit list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- return something[0m[0m
